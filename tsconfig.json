@@ -26,7 +26,6 @@
     "packages/global.d.ts",
     "packages/runtime-dom/jsx.d.ts",
     "packages/*/src",
-    "packages/*/__tests__",
-    "test-dts"
+    "packages/*/__tests__"
   ]
 }
